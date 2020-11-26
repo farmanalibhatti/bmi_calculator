@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(BMICalculator());
 
+// Bmi Calculator
 class BMICalculator extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
